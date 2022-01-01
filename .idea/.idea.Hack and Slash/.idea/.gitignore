@@ -1,0 +1,13 @@
+﻿# Default ignored files
+/shelf/
+/workspace.xml
+# Rider ignored files
+/modules.xml
+/projectSettingsUpdater.xml
+/contentModel.xml
+/.idea.Hack and Slash.iml
+# Datasource local storage ignored files
+/../../../../../../:\Gamedev\Hack and Slash\.idea\.idea.Hack and Slash\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
