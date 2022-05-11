@@ -75,12 +75,12 @@ crashlytics-build.properties
 .vscode
 AlienPlatformer
 /[Aa]ssets/_TerrainData
-/[Aa]ssets/Animations
+/[Aa]ssets/Animation
 /[Aa]ssets/Art
 /[Aa]ssets/Audio
 /[Aa]ssets/CodeRespawn
 /[Aa]ssets/Plugins
-/[Aa]ssets/Polarish - Low Poly Ecosystem
+/[Aa]ssets/Polaris - Low Poly Ecosystem
 /[Aa]ssets/PostProcessing
 /[Aa]ssets/Prefabs
 /[Aa]ssets/ProBuilder Data
