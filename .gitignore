@@ -74,16 +74,18 @@ crashlytics-build.properties
 .idea
 .vscode
 AlienPlatformer
-/[Aa]ssets/3rd Party
+/[Aa]ssets/_TerrainData
 /[Aa]ssets/Animations
 /[Aa]ssets/Art
 /[Aa]ssets/Audio
-/[Aa]ssets/Enhanced Hierarchy
-/[Aa]ssets/JMO Assets
-/[Aa]ssets/Materials
-/[Aa]ssets/Physics Materials
+/[Aa]ssets/CodeRespawn
+/[Aa]ssets/Plugins
+/[Aa]ssets/Polarish - Low Poly Ecosystem
+/[Aa]ssets/PostProcessing
 /[Aa]ssets/Prefabs
+/[Aa]ssets/ProBuilder Data
 /[Aa]ssets/Rendering
+/[Aa]ssets/Samples
 /[Aa]ssets/Scenes
 /[Aa]ssets/TextMesh Pro
 *.meta
