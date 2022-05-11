@@ -75,6 +75,8 @@ crashlytics-build.properties
 .vscode
 AlienPlatformer
 /[Aa]ssets/_TerrainData
+/[Aa]ssets/*.asset
+/[Aa]ssets/read me.txt
 /[Aa]ssets/Animation
 /[Aa]ssets/Art
 /[Aa]ssets/Audio
